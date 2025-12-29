@@ -40,3 +40,8 @@ a:hover {
   color: #0077cc;
 }
 
+.date {
+  float: right;
+  color: #888;
+  font-size: 0.9em;
+}
